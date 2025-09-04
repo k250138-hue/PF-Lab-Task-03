@@ -6,11 +6,13 @@ Learning GitHub
 **This is bold text.**
 <br/>
 _This is italic_
+<br/>
 Unordered List
 - list1
 - list2
 - list3
 - list4
+<br/>
 Ordered list
 1. pf lab1
 2. pf lab2
