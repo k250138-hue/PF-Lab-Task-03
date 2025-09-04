@@ -4,5 +4,6 @@
 Learning GitHub
 <br/>
 **This is bold text.**
+_This is italic_
 
 
