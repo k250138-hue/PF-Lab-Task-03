@@ -2,6 +2,7 @@
 ## Heading 2
 ### Heading 3
 Learning GitHub
-**This is bold text.**
 <br/>
+**This is bold text.**
+
 
